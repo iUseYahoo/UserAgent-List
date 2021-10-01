@@ -8,5 +8,5 @@
 
 ### Information
 - How do I use the file? You can use it with:
-    import json
-    json.loads(open('user-agents.json').read())
+    `import json`
+    `json.loads(open('user-agents.json').read())`
